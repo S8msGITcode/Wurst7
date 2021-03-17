@@ -1,4 +1,4 @@
-# Wurst Client v7
+ # Wurst Client v7 (PULL)
 
 ## Downloads (for users)
 
